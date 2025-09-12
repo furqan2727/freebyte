@@ -176,4 +176,4 @@ def otomatik_hesap_giris(dosya="accounts.txt"):
 
 if __name__ == "__main__":
     logo_goster()
-    otomatik_hesap_giris("accounts.txt")
+    otomatik_hesap_giris(".accounts.txt")
