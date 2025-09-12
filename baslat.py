@@ -26,12 +26,12 @@ def main():
         if secim == "1":
             print(Fore.GREEN + "\n[+] FreeByteTool v3 başlatılıyor...\n")
             time.sleep(1)
-            os.system("python freebyteV3.py")
+            os.system("python .freebyteV3.py")
             break
         elif secim == "2":
             print(Fore.GREEN + "\n[+] FreeByteTool v5 başlatılıyor...\n")
             time.sleep(1)
-            os.system("python freebyteV5.py")
+            os.system("python .freebyteV5.py")
             break
         elif secim == "0":
             print(Fore.RED + "\n[-] Çıkış yapılıyor...")
