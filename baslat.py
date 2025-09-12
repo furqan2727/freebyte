@@ -12,8 +12,8 @@ def banner():
 
 def menu():
     print(Fore.YELLOW + Style.BRIGHT + "\nLütfen bir versiyon seç:")
-    print(Fore.MAGENTA + Style.BRIGHT + "1) FreeByteTool v3")
-    print(Fore.MAGENTA + Style.BRIGHT +  "2) FreeByteTool v5")
+    print(Fore.MAGENTA + Style.BRIGHT + "1) MANUEL")
+    print(Fore.MAGENTA + Style.BRIGHT +  "2) OTOMATİK")
     print(Fore.RED + Style.BRIGHT +  "0) Çıkış\n")
 
 def main():
